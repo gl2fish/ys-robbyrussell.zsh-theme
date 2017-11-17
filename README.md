@@ -1,5 +1,7 @@
 # ys-robbyrussell.zsh-theme
 
-简单的修改oh-my-zsh默认ys主题。
+简单的修改oh-my-zsh默认`ys`主题。
 
-以ys主题为主，修改其中的git提示信息，git提示信息参照robbyrussell主题。
+以`ys`主题为主，修改其中的`git`提示信息，`git`提示信息参照`robbyrussell`主题。
+
+![image](https://github.com/gl2fish/ys-robbyrussell.zsh-theme/Snipaste.png)
